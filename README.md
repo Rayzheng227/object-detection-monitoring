@@ -18,7 +18,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/Temp_Tracking.git
+git clone https://github.com/Rayzheng227/object-detection-monitoring.git
 cd object-detection-monitoring
 ```
 
